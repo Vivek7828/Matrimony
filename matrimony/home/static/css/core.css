@@ -1,0 +1,16 @@
+.row {
+    margin: 10px;
+    padding: 0%;
+}
+.sin{
+    background-image: url("https://images.pexels.com/photos/776636/pexels-photo-776636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+.shadow-lg{
+    opacity:1!important;
+  }
+.viv{
+    margin-left: 320px;
+}
+.crd{
+    background-image: url("https://images.pexels.com/photos/730055/pexels-photo-730055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
